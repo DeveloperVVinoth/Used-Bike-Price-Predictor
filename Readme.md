@@ -28,6 +28,8 @@ Includes features like:
 
 ---
 
+<img width="711" height="726" alt="Streamlit (1)" src="https://github.com/user-attachments/assets/070df528-c247-4914-8679-27250623e4d8" />
+
 ## 🛠️ Installation
 
 1. Clone the repository:
@@ -71,5 +73,3 @@ BikePricePredictor/
 
 📌 Author
 Developed by Vinoth Viveki
-
-Let me know when you're ready for `requirements.txt` or to push everything to GitHub.
